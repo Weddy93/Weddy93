@@ -1,7 +1,7 @@
 # **Welcome to Weddy Nkatha's GitHub Profile!** 👋  
 
 ## **About Me**  
-I'm **Weddy Nkatha**, a passionate **Software Engineer** and **Data Scientist** with expertise in building scalable applications, data-driven solutions, and machine learning models. I thrive on solving complex problems and leveraging technology to create impactful solutions.  
+I'm **Weddy Nkatha**, a passionate **Software Engineer** and **Data Scientist** with expertise in building scalable applications, data-driven solutions, and machine learning models. I thrive on solving complex problems and leveraging technology to create impactful solutions..  
 
 🔹 **Phone:** [+254 115 842 214](tel:+254115842214)  
 🔹 **LinkedIn:** [Weddy Nkatha](https://www.linkedin.com/in/weddy-nkatha-a84740358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
