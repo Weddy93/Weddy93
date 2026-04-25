@@ -1,6 +1,6 @@
-# **Welcome to Weddy Nkatha's GitHub Profile!** 👋  
+Welcome to Weddy Nkatha's GitHub Profile! 
 
-## **About Me**  
+About Me
 I'm **Weddy Nkatha**, a passionate **Software Engineer** and **Data Scientist** with expertise in building scalable applications, data-driven solutions, and machine learning models. I thrive on solving complex problems and leveraging technology to create impactful solutions..  
 
 🔹 **Phone:** [+254 115 842 214](tel:+254115842214)  
@@ -8,9 +8,9 @@ I'm **Weddy Nkatha**, a passionate **Software Engineer** and **Data Scientist** 
 
 ---
 
-## **🛠️ Technical Skills**  
+Technical Skills
 
-### **Software Engineering**  
+Software Engineering 
 - **Programming Languages:** Python, JavaScript, Java, C#, C++  
 - **Web Development:** HTML, CSS, React.js, Node.js, Django, Flask, ASP.NET  
 - **Mobile Development:** React Native, Flutter  
@@ -19,7 +19,7 @@ I'm **Weddy Nkatha**, a passionate **Software Engineer** and **Data Scientist** 
 - **DevOps & Cloud:** AWS, Azure, Google Cloud, CI/CD (GitHub Actions, Jenkins)  
 - **Version Control:** Git, GitHub, GitLab  
 
-### **Data Science & Machine Learning**  
+Data Science & Machine Learning 
 - **Data Analysis:** Pandas, NumPy, SciPy, SQL  
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch  
@@ -44,13 +44,13 @@ Here are some of my notable projects:
 ## **📫 Let's Connect!**  
 I'm always open to collaborations, job opportunities, and discussions on tech innovations.  
 
-📧 **Email:** [Your Email Here] *(You can add an email if you'd like)*  
-🔗 **LinkedIn:** [Weddy Nkatha](https://www.linkedin.com/in/weddy-nkatha-a84740358)  
+📧 **Email:gikundaweddy1@gmail.com 
+🔗 **LinkedIn:** Weddy Nkatha (https://www.linkedin.com/in/weddy-nkatha-a84740358) 
 📱 **Phone:** [+254 115 842 214](tel:+254115842214)  
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile! Feel free to explore my work and reach out.**  
+Thanks for visiting my GitHub profile! Feel free to explore my work and reach out.  
 
 ---  
 **© 2025 Weddy Nkatha | Software Engineer & Data Scientist**  
