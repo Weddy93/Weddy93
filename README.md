@@ -29,7 +29,7 @@ Data Science & Machine Learning
 
 ---
 
-## **🚀 Projects**  
+## ** Projects**  
 Here are some of my notable projects:  
 
 1. **Predictive Analytics for Healthcare** – A machine learning model to predict disease outbreaks using Python and TensorFlow.  
@@ -37,16 +37,16 @@ Here are some of my notable projects:
 3. **Sentiment Analysis Tool** – NLP-based tool to analyze customer reviews using Python and NLTK.  
 4. **Cloud-Based Task Manager** – A scalable task management system deployed on AWS.  
 
-🔗 *Explore my repositories for more!*  
+ *Explore my repositories for more!*  
 
 ---
 
-## **📫 Let's Connect!**  
+## ** Let's Connect!**  
 I'm always open to collaborations, job opportunities, and discussions on tech innovations.  
 
-📧 **Email:gikundaweddy1@gmail.com 
-🔗 **LinkedIn:** Weddy Nkatha (https://www.linkedin.com/in/weddy-nkatha-a84740358) 
-📱 **Phone:** [+254 115 842 214](tel:+254115842214)  
+ Email:gikundaweddy1@gmail.com 
+ **LinkedIn:** Weddy Nkatha (https://www.linkedin.com/in/weddy-nkatha-a84740358) 
+ **Phone:** [+254 115 842 214](tel:+254115842214)  
 
 ---
 
