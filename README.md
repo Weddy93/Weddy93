@@ -52,39 +52,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Weddy Nkatha</h1>
-<h3 align="center">🚀 Software Engineer | 📊 Data Scientist | 🤖 AI Enthusiast</h3>
-
-<!-- MAIN TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Scalable+Applications;Exploring+AI+%26+Machine+Learning;Learning+Something+New+Everyday;Open+to+Opportunities+🚀">
-</p>
-
-<!-- CODING GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
-
-## 🌟 About Me
-
-💡 Passionate about building **scalable applications**, **AI systems**, and **data-driven solutions**  
-🧠 Focused on **Machine Learning, NLP, and Cloud Engineering**  
-⚡ Currently growing as a **Junior Software Engineer**  
-🎯 Goal: Contribute to impactful real-world systems  
-
-<!-- SECOND TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=F75C7E&center=true&vCenter=true&width=450&lines=Clean+Code+Advocate;Problem+Solver;Team+Player;Continuous+Learner">
-</p>
-
-📞 **Phone:** +254 115 842 214  
-📧 **Email:** gikundaweddy1@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/weddy-nkatha-a84740358  
-
----
 
 ## 🧰 Tech & Tools
 
