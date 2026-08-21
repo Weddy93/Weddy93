@@ -1,5 +1,5 @@
 <!-- HEADER -->
- <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=💫Hello+I+Am+Weddy+Nkatha!;🔥Nice+to+meet+you!;💡Dm+for+Software+Projects+And+Management.;" alt="Animated Typing Text" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=💫Hello+I+Am+Weddy+Nkatha!;Nice+to+meet+you!;💡Dm+for+Software+Projects+And+Management.;" alt="Animated Typing Text" />
 <h3 align="center"> Software Engineer |  Data Scientist | AI Enthusiast</h3>
 
 <!-- MAIN TYPING ANIMATION -->
@@ -9,7 +9,7 @@
 
 <!-- CODING GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
