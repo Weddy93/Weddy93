@@ -17,7 +17,7 @@
 ## 🌟 About Me
 
 💡 Passionate about building **scalable applications**, **AI systems**, and **data-driven solutions**  
-🧠 Focused on **Machine Learning, NLP, and Cloud Engineering**  
+🧠 Focused on **Machine Learning, NLP, and AI**  
 ⚡ Currently growing as a **Junior Software Engineer**  
 🎯 Goal: Contribute to impactful real-world systems  
 
