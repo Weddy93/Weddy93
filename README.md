@@ -18,7 +18,8 @@
 
 💡 Passionate about building **scalable applications**, **AI systems**, and **data-driven solutions**  
 🧠 Focused on **Machine Learning, NLP, and AI**  
-⚡ Currently growing as a **Junior Software Engineer**  
+⚡ Currently growing as a **Junior Software Engineer**
+https://my-portfolio-rho-mauve-64.vercel.app/
 🎯 Goal: Contribute to impactful real-world systems  
 
 <!-- SECOND TYPING ANIMATION -->
