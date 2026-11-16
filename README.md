@@ -57,7 +57,7 @@ https://my-portfolio-rho-mauve-64.vercel.app/
 
 ## 🧰 Tech & Tools
 
-<!-- ALL BADGES IN ONE CLEAN SECTION -->
+
 <p align="center">
 
 <!-- LANGUAGES -->
