@@ -1,27 +1,24 @@
-<!-- HEADER -->
- <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=💫Hello+I+Am+Weddy+Nkatha!;Nice+to+meet+you!;" alt="Animated Typing Text" />
-<h3 align="center"> Software Engineer |  Data Scientist | AI Enthusiast</h3>
 
-<!-- MAIN TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Scalable+Applications;Exploring+AI+%26+Machine+Learning;Learning+Something+New+Everyday;Open+to+Opportunities+🚀">
-</p>
+<div align="center">
 
-<!-- CODING GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
+# Weddy Nkatha
+
+### Software Engineer | Data Science & AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=480&height=35&lines=Building+practical+software+solutions;Exploring+AI+and+Machine+Learning;Turning+ideas+into+working+systems" alt="Developer introduction" />
+
+</div>
 
 ---
 
-## 🌟 About Me
+## About Me
 
-💡 Passionate about building **scalable applications**, **AI systems**, and **data-driven solutions**  
-🧠 Focused on **Machine Learning, NLP, and AI**  
-⚡ Currently growing as a **Junior Software Engineer**
-https://my-portfolio-rho-mauve-64.vercel.app/
+I'm a Software Engineering student interested in building practical software, intelligent systems, and data-driven applications.
 
-🎯 Goal: Contribute to impactful real-world systems  
+- 🎓 Currently pursuing a **BSc in Software Engineering at Kirinyaga University**.
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
+- 💡 Focused on building solutions that address real-world problems.
+- 🚀 Continuously improving my engineering skills through hands-on projects.
 
 <!-- SECOND TYPING ANIMATION -->
 <p align="center">
