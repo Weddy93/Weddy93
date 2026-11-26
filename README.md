@@ -17,7 +17,7 @@ I'm a Software Engineering student interested in building practical software, in
 
 - Currently pursuing a **BSc in Software Engineering at Kirinyaga University**.
 - Interested in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
-- 💡 Focused on building solutions that address real-world problems.
+-  Focused on building solutions that address real-world problems.
 - 🚀 Continuously improving my engineering skills through hands-on projects.
 
 <!-- SECOND TYPING ANIMATION -->
